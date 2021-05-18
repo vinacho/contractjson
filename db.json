@@ -1,3 +1,9 @@
-  "name": "OpenSea Creatures",
-  "description": "OpenSea Creatures are adorable aquatic set.",
-  "image": "https://openseacreatures.io/image.png"
+{
+    "contract": [
+        {
+            "description": "qqqqqqq",
+            "image": "https://www.ecosdelcombeima.com/sites/default/files/bandera_del_tolima_hd.jpeg",
+            "name": "toooooooooolima collection"
+        }
+    ]
+}
