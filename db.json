@@ -2,6 +2,4 @@
   "name": "OpenSea Creatures",
   "description": "OpenSea Creatures are adorable aquatic set.",
   "image": "https://openseacreatures.io/image.png",
-  "seller_fee_basis_points": 100,
-  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
 }
